@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Photo Viewer</string>
+    <string name="carousel">Carousel</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="image_not_available">Image Not Available</string>
+    <string name="no_image_available">No Image Available</string>
+</resources>
